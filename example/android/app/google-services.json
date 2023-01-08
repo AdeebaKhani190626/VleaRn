@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "587552528710",
+    "project_id": "vlearn-16e7f",
+    "storage_bucket": "vlearn-16e7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587552528710:android:30c115d8c860213efead47",
+        "android_client_info": {
+          "package_name": "com.xraph.plugin.flutter_unity_widget_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587552528710-58u2de6sec1ea3al35amtl4htm9pusnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7ViryLlgaLauc3KAdg5Bc8QSGv3jNVcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587552528710-58u2de6sec1ea3al35amtl4htm9pusnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
