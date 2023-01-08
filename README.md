@@ -41,3 +41,12 @@ Our basic aim is to provide users a platform to conduct online learning sessions
 
 Github Link: https://github.com/AdeebaKhani190626/VleaRn/tree/master
 
+# Demo
+
+# Avatar 
+![avatar](https://user-images.githubusercontent.com/90544970/211214369-0cf36a88-6470-4e3c-ba38-b307b5d572ec.jpeg)
+
+# Environment
+https://user-images.githubusercontent.com/90544970/211214390-9bcef716-77a1-43e5-970f-310a800b5304.mp4
+
+
