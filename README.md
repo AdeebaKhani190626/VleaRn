@@ -61,5 +61,6 @@ https://user-images.githubusercontent.com/90544970/211214690-421c9978-cbda-4fba-
 ![HomePage](https://user-images.githubusercontent.com/90544970/211214709-8cb1be24-2eea-4504-b92d-d1d3dbf8943b.jpeg)
 
 
-# Our Superviosr
+# Our Supervisor
+
 ![Supervisor](https://user-images.githubusercontent.com/90544970/211214712-8f3b2994-0486-42e0-84f1-cc095255f0ed.jpeg)
