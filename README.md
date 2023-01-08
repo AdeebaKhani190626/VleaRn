@@ -58,7 +58,7 @@ https://user-images.githubusercontent.com/90544970/211214686-23390283-52b5-4da0-
 https://user-images.githubusercontent.com/90544970/211214690-421c9978-cbda-4fba-854f-c068ada6980a.mp4
 
 
-![HomePage](https://user-images.githubusercontent.com/90544970/211214709-8cb1be24-2eea-4504-b92d-d1d3dbf8943b.jpeg)
+![HomePage](https://user-images.githubusercontent.com/90544970/211214709-8cb1be24-2eea-4504-b92d-d1d3dbf8943b.jpeg = 500x850)
 
 
 # Our Supervisor
